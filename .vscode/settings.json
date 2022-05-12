@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "python.pythonPath": "/usr/bin/python3.6",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
